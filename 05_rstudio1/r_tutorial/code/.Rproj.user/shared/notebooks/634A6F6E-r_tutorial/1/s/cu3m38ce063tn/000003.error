@@ -1,0 +1,1 @@
+{"frames":[{"func":"ggplot(data = df.data, mapping = aes(x = danceability, y = valence))","file":"","line_number":0,"end_line_number":0,"character_number":0,"end_character_number":0}],"message":"Error in ggplot(data = df.data, mapping = aes(x = danceability, y = valence)) : \n  object 'df.data' not found\n"}

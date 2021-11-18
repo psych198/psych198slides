@@ -1,0 +1,7 @@
+"0","ggplot(data = df.data,"
+"0","       mapping = aes(x = danceability,"
+"0","                     y = valence)) + "
+"0","  geom_point()"
+"2","Error in ggplot(data = df.data, mapping = aes(x = danceability, y = valence)) : 
+  object 'df.data' not found
+"

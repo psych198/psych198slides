@@ -1,0 +1,4 @@
+"0","# let's save the plot"
+"0","ggsave(filename = ""../figures/plots/energy_key_mode.pdf"","
+"0","       width = 8,"
+"0","       height = 6)"
