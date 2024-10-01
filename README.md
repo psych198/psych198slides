@@ -1,2 +1,2 @@
-# psych197slides
+# psych198slides
 Slides for the psych honors class. 
